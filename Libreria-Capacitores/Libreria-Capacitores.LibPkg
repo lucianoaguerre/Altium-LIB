@@ -328,6 +328,23 @@ GenerateClassCluster=0
 DocumentUniqueId=YNIHWIWV
 
 [Document18]
+DocumentPath=CAP-SUP.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SUKROMOB
+
+[Document19]
 DocumentPath=CAP-ELEC-SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -344,7 +361,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ILDKCRKB
 
-[Document19]
+[Document20]
 DocumentPath=CAP-CER.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
